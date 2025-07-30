@@ -1,4 +1,4 @@
-# Oi mundo 🙋‍♂️
+# Oi mundo 👋
 _*Treinando git*_
 
 __*Aprendendo a criar um repositório*__
